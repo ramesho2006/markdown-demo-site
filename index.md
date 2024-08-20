@@ -32,7 +32,7 @@ Disclaimer: This site is used to demonstrate Markdown and is not intended to be 
 
 ---
 
-## At a glance 
+# At a glance 
 
 | Key             | Value  |  
 |:----------------|---:|   
@@ -43,7 +43,7 @@ Disclaimer: This site is used to demonstrate Markdown and is not intended to be 
 | Best known for  | Modern alternating current (AC) electricity supply system |   
    
 
-# New York laboratories
+## New York laboratories
 
 ### Tesla coil
 Tesla found the discoveries of __Heinrich Hertz__ refreshing and decided to repeat the experiment but found that the high frequency current overheated the iron core and melted the insulation between the primary and secondary windings in the coil. To fix this problem Tesla came up with his Tesla coil with an air gap instead of insulating material between the primary and secondary windings and an iron core that could be moved to different positions in or out of the coil.
